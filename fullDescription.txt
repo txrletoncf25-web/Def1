@@ -1,6 +1,8 @@
 This is the first paragraph. **Here is a modification to the first paragraph**.
 
 This is the second paragraph.
-This is the same second paragraph, as paragraphs are divided by blank lines. **This modification is made in againfix**.
 
-This is the third paragraph.
+This is the same second paragraph, as paragraphs are divided by blank lines. *This modification is italicized*.
+
+This is the third paragraph. **This modification is made in againfix. It was originally in paragraph two, but had to move due to conflicts with 
+changes from main**.
